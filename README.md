@@ -1,14 +1,36 @@
+# 🌤️ Weather App
 
-# WEATHER-APPLICATION
+A responsive weather web application built with **React.js** that allows users to search for the current weather conditions of any city around the world. Powered by the **OpenWeatherMap API**.
 
-This app shows weather info for any city using React and OpenWeatherMap API.
+---
+ 
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🌍 Search weather by city name
+- 📱 Mobile-responsive design
+- ☀️ Dynamic weather details (temperature, humidity, condition, etc.)
+- 🔐 API key secured using backend (optional)
+- ⚡ Fast and modern React UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Demo
 
-# Weather-application
- 3587ee5ddf294376138254a5c99d03b2c994328c
+Coming soon...
+
+---
+
+## 🧰 Tech Stack
+
+- **React.js** (Frontend)
+- **Tailwind CSS** or plain CSS (Styling)
+- **OpenWeatherMap API** (Weather data)
+- **Node.js / Express** (Optional backend to hide API key)
+
+---
+
+## 🛠️ Installation & Setup
+
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/Utsav305/Weather-application app.git
